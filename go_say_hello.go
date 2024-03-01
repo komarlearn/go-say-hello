@@ -1,7 +1,5 @@
 package go_say_hello
 
-komar := "ganteng bange"
-
 func SayHello() string {
-	return "hello komar" + komar + "halo koamr"
+	return "hello komar hidayat yang paling ganteng"
 }
